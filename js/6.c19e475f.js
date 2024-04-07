@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklesson8"]=self["webpackChunklesson8"]||[]).push([[6],{5006:function(s,t,n){n.r(t),n.d(t,{default:function(){return o}});var e=function(){var s=this;s._self._c;return s._m(0)},u=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"about"},[t("img",{attrs:{src:n(9349),alt:""}}),t("p",[s._v("This is ABOUT page")])])}],a={name:"AboutUsView",components:{}},i=a,r=n(1656),c=(0,r.A)(i,e,u,!1,null,"f9edc858",null),o=c.exports},9349:function(s,t,n){s.exports=n.p+"img/about.79a8138a.jpg"}}]);
+//# sourceMappingURL=6.c19e475f.js.map
